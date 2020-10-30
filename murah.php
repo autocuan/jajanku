@@ -1,7 +1,7 @@
 <?php
 
 date_default_timezone_set('Asia/Jakarta');
-include "functiony1.php";
+include "function.php";
 ulang:
 // function change(){
 os.system('clear');
