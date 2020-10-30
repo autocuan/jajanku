@@ -84,7 +84,7 @@ echo "\n";
 }
 
 date_default_timezone_set('Asia/Jakarta');
-include_once ('functiony1.php');
+include_once ('function.php');
 echo color("purple","                 CLAIM VOUCHER GOJEK                      \n");
 $token = $accesstoken;
         {
